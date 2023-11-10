@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkquick_ftxui=self.webpackChunkquick_ftxui||[]).push([[5143],{4655:e=>{e.exports=JSON.parse('{"permalink":"/quick-ftxui-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

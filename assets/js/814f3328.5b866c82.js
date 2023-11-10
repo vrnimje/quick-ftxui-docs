@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkquick_ftxui=self.webpackChunkquick_ftxui||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Quick-FTXUI v0.2","permalink":"/blog/qf-0.2","unlisted":false}]}')}}]);
