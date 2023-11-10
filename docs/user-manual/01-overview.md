@@ -237,7 +237,7 @@ Border Vertical{
 The output is:
 
 <video width="100%" height="auto" controls>
-  <source src="/quick-ftxui-docs/quick-ftxui-docs/img/video-3.webm" type="video/webm"/>
+  <source src="/quick-ftxui-docs/img/video-3.webm" type="video/webm"/>
   Your browser does not support the video tag.
 </video>
 
