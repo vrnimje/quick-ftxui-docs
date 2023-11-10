@@ -41,27 +41,27 @@ Now, lets take a look at some examples, to determine how they work:
     Yellow bold Text("This is bold, yellow text")
     ```
     which looks like: <br/>
-    <img src="/img/text-1.png" alt="bold text"/>
+    <img src="/quick-ftxui-docs/img/text-1.png" alt="bold text"/>
 
   - Red and Inverted text
     ```sh
     Red inverted Text("This has an inverted look")
     ```
     which looks like: <br/>
-    <img src="/img/text-2.png" alt="inverted text"/>
+    <img src="/quick-ftxui-docs/img/text-2.png" alt="inverted text"/>
 
   - Blue Text, which links to [google.com](https://google.com)
     ```sh
     Blue hyperlink Text("Google", "https://www.google.com/")
     ```
     which looks like: <br/>
-    <img src="/img/text-3.png" alt="link text"/>
+    <img src="/quick-ftxui-docs/img/text-3.png" alt="link text"/>
 
 
   Lets see all the text styles together 
 
   <video width="100%" height="auto" controls>
-    <source src="/img/text-video.webm" type="video/webm"/>
+    <source src="/quick-ftxui-docs/img/text-video.webm" type="video/webm"/>
     Your browser does not support the video tag.
   </video>
 
@@ -94,12 +94,12 @@ of belief should rationally change to account for availability of related eviden
 Bayesian inference is fundamental to Bayesian statistics.")
 ```
 which looks like this:
-<img src="/img/para-1.png" alt="para"/>
+<img src="/quick-ftxui-docs/img/para-1.png" alt="para"/>
 
 Now lets see a video demo for the same:
 
 <video width="100%" height="auto" controls>
-  <source src="/img/para-video.webm" type="video/webm"/>
+  <source src="/quick-ftxui-docs/img/para-video.webm" type="video/webm"/>
   Your browser does not support the video tag.
 </video>
 
@@ -140,7 +140,7 @@ Vertical{
   }
 }
 ```
-<img src="/img/sep-1.png" alt="sep"/> <br/>
+<img src="/quick-ftxui-docs/img/sep-1.png" alt="sep"/> <br/>
 
 You can checkout the example in previous [`Paragraph`'s section](#2-paragraph) to see how they are actually used
 
@@ -185,7 +185,7 @@ Vertical {
     }
 }
 ```
-<img src="/img/border-1.png" alt="border"/>
+<img src="/quick-ftxui-docs/img/border-1.png" alt="border"/>
 
 
 

@@ -34,7 +34,7 @@ Vertical{
 
 The output:
 
-<img src="/img/image.png" alt="Hello World example"/>
+<img src="/quick-ftxui-docs/img/image.png" alt="Hello World example"/>
 
 Lets look at this step by step
 
@@ -52,7 +52,7 @@ Horizontal{
 }
 ```
 
-<img src="/img/image-2.png" alt="Horizontal Hello World"/>
+<img src="/quick-ftxui-docs/img/image-2.png" alt="Horizontal Hello World"/>
 
 Note: Its necessary to specify the alignment of the block, else the code will not execute. 
 
@@ -102,7 +102,7 @@ The option no. (which starts from 0) will be stored in the variable defined with
 The output is:
 
 <video width="100%" height="auto" controls>
-  <source src="/img/Screencast from 25-09-23 07:45:51 PM IST.webm" type="video/webm"/>
+  <source src="/quick-ftxui-docs/img/Screencast from 25-09-23 07:45:51 PM IST.webm" type="video/webm"/>
   Your browser does not support the video tag.
 </video>
 
@@ -121,7 +121,7 @@ As we discussed above, Components are a vital part of the TUI, and are used for 
 Lets take a look at a glimpse of these components:
 
 <video width="100%" height="auto" controls>
-  <source src="/img/Screencast from 25-09-23 08:21:44 PM IST.webm" type="video/webm"/>
+  <source src="/quick-ftxui-docs/img/Screencast from 25-09-23 08:21:44 PM IST.webm" type="video/webm"/>
   Your browser does not support the video tag.
 </video>
 
@@ -181,7 +181,7 @@ Border Vertical{
 
 The output is:
 
-<img src="/img/image-3.png"/>
+<img src="/quick-ftxui-docs/img/image-3.png"/>
 
 There are also different styles to all the DOM elements, which you can learn about in the `DOM` section of the user manual. 
 
@@ -189,7 +189,7 @@ There are also different styles to all the DOM elements, which you can learn abo
 
 Quick-FTXUI currently support the givne below, 16 color pallete. Support for a more wider range of colours is coming soon.
 
-<img alt="colours" src="/img/image-4.png"/>
+<img alt="colours" src="/quick-ftxui-docs/img/image-4.png"/>
 
 Note: The second color is `Black`, which is faintly visible against the black background. 
 
@@ -237,7 +237,7 @@ Border Vertical{
 The output is:
 
 <video width="100%" height="auto" controls>
-  <source src="/img/video-3.webm" type="video/webm"/>
+  <source src="/quick-ftxui-docs/quick-ftxui-docs/img/video-3.webm" type="video/webm"/>
   Your browser does not support the video tag.
 </video>
 

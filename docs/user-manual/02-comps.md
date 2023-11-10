@@ -46,7 +46,7 @@ Now, lets take a look at some examples, which will depict all the styles and com
     }
     ```
     which looks like this:
-    <img src="/img/button-1.png" alt="Basic button"/>
+    <img src="/quick-ftxui-docs/img/button-1.png" alt="Basic button"/>
 
   - Red Animated Button, to list the items in the current directory
     ```sh
@@ -59,7 +59,7 @@ Now, lets take a look at some examples, which will depict all the styles and com
     }
     ```
     which looks like this: <br/>
-    <img src="/img/button-2.png" alt="ls -l button"/>
+    <img src="/quick-ftxui-docs/img/button-2.png" alt="ls -l button"/>
   
   - Blue Ascii Button, to open chrome (in at least Ubuntu)
     ```
@@ -72,12 +72,12 @@ Now, lets take a look at some examples, which will depict all the styles and com
     }
     ```
     which looks like this: <br/>
-    <img src="/img/button-3.png" alt="chrome button"/>
+    <img src="/quick-ftxui-docs/img/button-3.png" alt="chrome button"/>
 
   Now we will see all these buttons in action:
 
   <video width="100%" height="auto" controls>
-    <source src="/img/button-video.webm" type="video/webm"/>
+    <source src="/quick-ftxui-docs/img/button-video.webm" type="video/webm"/>
     Your browser does not support the video tag.
   </video>
 
@@ -121,7 +121,7 @@ Now, lets take a look at some examples, which will depict how `Slider`s can be c
     }
     ```
     which looks like:
-    <img src="/img/slider-1.png" alt="0-100 1 step Slider"/>
+    <img src="/quick-ftxui-docs/img/slider-1.png" alt="0-100 1 step Slider"/>
 
   - A YellowLight Slider, for choosing any even number between 0 and 100
     ```sh
@@ -136,12 +136,12 @@ Now, lets take a look at some examples, which will depict how `Slider`s can be c
     ```
 
     which looks like:
-    <img src="/img/slider-2.png" alt="0-100 2 step Slider"/>
+    <img src="/quick-ftxui-docs/img/slider-2.png" alt="0-100 2 step Slider"/>
 
   Lets look at these sliders we have defined in action:
 
   <video width="100%" height="auto" controls>
-    <source src="/img/slider-video.webm" type="video/webm"/>
+    <source src="/quick-ftxui-docs/img/slider-video.webm" type="video/webm"/>
     Your browser does not support the video tag.
   </video> 
 
@@ -152,7 +152,7 @@ Now, lets take a look at some examples, which will depict how `Slider`s can be c
 
 
   Note: Avoid using `Slider`s in Horizontal blocks, as it results in its compaction like described below<br/>
-  <img src="/img/slider-3.png" alt="slider defect"/><br/>
+  <img src="/quick-ftxui-docs/img/slider-3.png" alt="slider defect"/><br/>
   (The slider is at its max range)
 
 ## 3. Input
@@ -184,7 +184,7 @@ Now lets explore some examples
     ```
 
     which renders like: <br/>
-    <img src="/img/input-1.png" alt="defualt input"/><br/>
+    <img src="/quick-ftxui-docs/img/input-1.png" alt="defualt input"/><br/>
 
   - A Red Password field
     ```sh
@@ -197,15 +197,15 @@ Now lets explore some examples
     ```
 
     which looks initially something like this:<br/>
-    <img src="/img/input-2.png" alt="password w/out text"/><br/>
+    <img src="/quick-ftxui-docs/img/input-2.png" alt="password w/out text"/><br/>
 
     and with text looks like: <br/>
-    <img src="/img/input-3.png" alt="password w/ text"/><br/>
+    <img src="/quick-ftxui-docs/img/input-3.png" alt="password w/ text"/><br/>
 
   Now lets see an actual demo:
 
   <video width="100%" height="auto" controls>
-    <source src="/img/input-video.webm" type="video/webm"/>
+    <source src="/quick-ftxui-docs/img/input-video.webm" type="video/webm"/>
     Your browser does not support the video tag.
   </video> 
 
@@ -259,7 +259,7 @@ Lets look at some examples for the same:
   }
   ```
   which looks like this: <br/>
-  <img src="/img/menu-1.png" alt="animated menu"/>
+  <img src="/quick-ftxui-docs/img/menu-1.png" alt="animated menu"/>
 
 - A normal, Vertical Green Menu
   ```sh
@@ -271,7 +271,7 @@ Lets look at some examples for the same:
   }
   ```
   which looks like this: <br/>
-  <img src="/img/menu-2.png" alt="animated menu"/>
+  <img src="/quick-ftxui-docs/img/menu-2.png" alt="animated menu"/>
 
 
 - A BlueLight Dropdown
@@ -284,7 +284,7 @@ Lets look at some examples for the same:
   ```
 
   which looks like this: <br/>
-  <img src="/img/dropdown-1.png" alt="animated menu"/>
+  <img src="/quick-ftxui-docs/img/dropdown-1.png" alt="animated menu"/>
 
 - A Cyan Toggle
   ```sh
@@ -295,12 +295,12 @@ Lets look at some examples for the same:
   }
   ```
   which looks like this: <br/>
-  <img src="/img/toggle-1.png" alt="animated menu"/>
+  <img src="/quick-ftxui-docs/img/toggle-1.png" alt="animated menu"/>
 
   Now lets take a look at how these components work:
 
   <video width="100%" height="auto" controls>
-    <source src="/img/menu-video.webm" type="video/webm"/>
+    <source src="/quick-ftxui-docs/img/menu-video.webm" type="video/webm"/>
     Your browser does not support the video tag.
   </video> 
 
