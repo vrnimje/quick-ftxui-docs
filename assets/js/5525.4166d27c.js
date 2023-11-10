@@ -1,0 +1,1 @@
+(self.webpackChunkquick_ftxui=self.webpackChunkquick_ftxui||[]).push([[5525],{5525:()=>{}}]);

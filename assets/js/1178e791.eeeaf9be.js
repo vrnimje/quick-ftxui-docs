@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkquick_ftxui=self.webpackChunkquick_ftxui||[]).push([[1292],{2776:s=>{s.exports=JSON.parse('{"name":"@easyops-cn/docusaurus-search-local","id":"default"}')}}]);

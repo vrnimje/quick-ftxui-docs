@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-test-site.com/blog</id>
+    <title>Quick-FTXUI Blog</title>
+    <updated>2023-10-04T10:24:53.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
+    <subtitle>Quick-FTXUI Blog</subtitle>
+    <icon>https://your-docusaurus-test-site.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Quick-FTXUI v0.2]]></title>
+        <id>https://your-docusaurus-test-site.com/blog/qf-0.2</id>
+        <link href="https://your-docusaurus-test-site.com/blog/qf-0.2"/>
+        <updated>2023-10-04T10:24:53.000Z</updated>
+        <content type="html"><![CDATA[<p>This release marks the second major update for Quick-FTXUI.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="changelog">Changelog<a href="https://your-docusaurus-test-site.com/blog/qf-0.2#changelog" class="hash-link" aria-label="Direct link to Changelog" title="Direct link to Changelog">​</a></h2>
+<ul>
+<li>Added coloring options for components &amp; DOM elements</li>
+<li>Added FTXUI's DOM elements, which are <code>Text</code>, <code>Paragraph</code>, <code>Separator</code> &amp; <code>Borders</code>, along with their styles, wherever felt necessary</li>
+<li>Added ability to use C++ references as hooks to be used to QF's variables</li>
+<li>Added detailed user documentation, and hosted it via Github Pages.</li>
+</ul>
+<p>Next release, i.e., <code>v0.3</code>, will focus on making this project more accessible to work with, and of course, porting over more features from FTXUI.</p>]]></content>
+    </entry>
+</feed>
